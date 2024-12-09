@@ -17,7 +17,7 @@
 <img src="assets/class.png" width=300>
 
 5, You just need to set the final grade for each of your students, if you are going to give any
-one an F, you will need to prvoide the Last Attend Date.
+one an F, you will need to provide the Last Attend Date.
 
 <img src="assets/grade.png" width=600>
 
