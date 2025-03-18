@@ -14,7 +14,10 @@ $500 Honorarium for Austin/Dallas/Houston speakers who come to UIW.
 
 $800 Honorarium for out of state speakers who come to UIW.
 
+## How Does the Seminar Class Look Like:
 Speakers usually come in and talk to the students about their career, and pass their wisdom to the students. It usually goes with a 30 minutes presentation followed by a Q&A session with the student.
+
+[See the pictures from our social media](https://www.instagram.com/p/DC4lSK1MwzZ/?img_index=6)
 
 ## Avaliable Slots:
 The current speaker line up and avaliable slots can be viewed in here: 
