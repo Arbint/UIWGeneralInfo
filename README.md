@@ -16,7 +16,11 @@
 
 * [International Student Online Course](documentations/InternationalStudentOnlineCourse.md)
 
-* [Degreework Issues](documentation/DegreeworkIssues.md)
+* [Degreework Issues](documentations/DegreeworkIssues.md)
+
+* [Check the List of Students Registered for A Course](documentations/CourseStudentList.md)
+
+* [Check the Instructors for a Course](documentations/InstructorsOnArgo.md)
 
 ## Notes for my self:
 
