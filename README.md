@@ -18,10 +18,11 @@
 
 * [Degreework Issues](documentations/DegreeworkIssues.md)
 
-* [Check the List of Students Registered for A Course](documentations/CourseStudentList.md)
+* [Check the List of Students Registered for A Course](documentations/CourseStudentList.md) (Useful to check which students are registered for a cours)
 
-* [Check the Instructors for a Course](documentations/InstructorsOnArgo.md)
+* [Check the Instructors and Student Count for a Course](documentations/InstructorsOnArgo.md) (Useful for forward predicting student enrollment)
 
 ## Notes for my self:
 
 * [Spring 2026 Schedule](documentations/Spring2026.md)
+
