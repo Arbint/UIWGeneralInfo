@@ -22,7 +22,11 @@
 
 * [Check the Instructors and Student Count for a Course](documentations/InstructorsOnArgo.md) (Useful for forward predicting student enrollment)
 
+## Curriculumn
+* [Undergraduate Concil Notes](documentations/UndergraduateConcilNotes.md)
+
 ## Notes for my self:
+
 
 * [Spring 2026 Schedule](documentations/Spring2026.md)
 
