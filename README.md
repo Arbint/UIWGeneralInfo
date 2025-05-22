@@ -12,7 +12,9 @@
 
 * [Leave Student Note](documentations/LeaveStudentNote)
 
-* [Request Schedule Changes](documentations/RequestScheduleChanges)
+* [Request Course Changes](documentations/RequestScheduleChanges.md)
+
+* [Course Registration Notes](documentations/CourseRegistrationNotes.md)
 
 * [International Student Online Course](documentations/InternationalStudentOnlineCourse.md)
 
@@ -29,4 +31,6 @@
 
 
 * [Spring 2026 Schedule](documentations/Spring2026.md)
+
+
 
