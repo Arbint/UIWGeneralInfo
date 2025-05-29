@@ -27,8 +27,21 @@
 ## Curriculumn
 * [Undergraduate Concil Notes](documentations/UndergraduateConcilNotes.md)
 
-## Notes for my self:
+## Budgeting
 
+```Everything about money need to go through Victoria```
+
+* [General Info](documentations/BudgetInfo.md)
+
+* [How the Budget Sheet Works](documentations/BudgetSheet.md)
+
+* [Hiring Student Workstudy or Student Employee](documentations/StudentWorkers.md)
+
+* [Software](documentations/Software.md)
+
+* [Booking](documentations/Booking.md)
+
+## Notes for my self:
 
 * [Spring 2026 Schedule](documentations/Spring2026.md)
 
