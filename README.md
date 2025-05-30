@@ -1,5 +1,13 @@
 # This is a Collection of Documents on How to Navigate Admin works at UIW
 
+## Lab Stats
+
+* [Labs](documentations/Labs.md)
+
+* [Servers](documentations/Servers.md)
+
+
+
 ## Recruiments
 * [Check Current Student Census](documentations/CheckStudentCensus.md)
 
