@@ -13,6 +13,9 @@ To graduate, student need to fufil:
     
     Student need to maintain full time need 12 credits hours
 
+    If a student need to get to full time, here are some options:
+        - Take a addition & different PE course to get 1 extra
+
 - Over Time
 
     Student who need to take more than 18 is over time, need to apply for the ```academic overload load request form```
