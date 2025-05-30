@@ -35,6 +35,8 @@
 ## Curriculumn
 * [Undergraduate Concil Notes](documentations/UndergraduateConcilNotes.md)
 
+* [ANGD Curriculumn](documentations/AngdCurriculumn.md)
+
 ## Budgeting
 
 ```Everything about money need to go through Victoria```
