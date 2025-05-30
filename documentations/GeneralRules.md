@@ -14,7 +14,9 @@ To graduate, student need to fufil:
     Student need to maintain full time need 12 credits hours
 
     If a student need to get to full time, here are some options:
-        - Take a addition & different PE course to get 1 extra
+
+        * Take a addition & different PE course to get 1 extra
+        * Take another course, but be sure it is not already taken, or if it is able to be repeated for credits.(rare) 
 
 - Over Time
 
