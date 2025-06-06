@@ -2,6 +2,12 @@
 
 ``` IMPORTANT``` Software purchasing takes time, should do it every summer on June 1st.
 
+## License Count
+
+Licence count is calculated as:
+
+Highests cocurrent use in class meetings + 10 extra for student lab use.
+
 ## Timeline
 
 * Department chair get quotes from vendor (Department Chair should be the person of contact for software issues), CC Victoria is always encouraged

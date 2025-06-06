@@ -13,14 +13,14 @@
 
 * [Check Recruiting List](documentations/CheckRecrutingList.md)
 
+* [Summer Orientation](documentations/SummerOrientations.md)
+
 ## Registration
 * [General Rule](documentations/GeneralRules.md)
 
 * [Override Course](documentations/OverrideCourse.md)
 
 * [Leave Student Note](documentations/LeaveStudentNote)
-
-* [Request Course Changes](documentations/RequestScheduleChanges.md)
 
 * [Course Registration Notes](documentations/CourseRegistrationNotes.md)
 
@@ -31,6 +31,14 @@
 * [Check the List of Students Registered for A Course](documentations/CourseStudentList.md) (Useful to check which students are registered for a cours)
 
 * [Check the Instructors and Student Count for a Course](documentations/InstructorsOnArgo.md) (Useful for forward predicting student enrollment)
+
+* [Faculty Registration Access](documentations/FacultyRegistrationAccess.md)
+
+## Scheduling
+
+* [Credit Hours](documentations/CreditHours.md)
+
+* [Request Course Changes](documentations/RequestScheduleChanges.md)
 
 ## Curriculumn
 * [Undergraduate Concil Notes](documentations/UndergraduateConcilNotes.md)
