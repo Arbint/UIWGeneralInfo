@@ -59,6 +59,11 @@
 
 * [Booking](documentations/Booking.md)
 
+## Printing:
+
+* [PC](https://uiw.freshservice.com/support/solutions/articles/17000042580-UIW-Print-Installation-PC)
+
+* [MAC](https://uiw.freshservice.com/support/solutions/articles/17000040096-Print-Installation-Set-Up-Use-MAC)
 ## Notes for my self:
 
 * [Spring 2026 Schedule](documentations/Spring2026.md)
