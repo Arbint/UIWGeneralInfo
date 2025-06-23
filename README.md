@@ -40,6 +40,8 @@
 
 * [Request Course Changes](documentations/RequestScheduleChanges.md)
 
+* [Timing](documentations/ScheudleTiming.md)
+
 ## Curriculumn
 * [Undergraduate Concil Notes](documentations/UndergraduateConcilNotes.md)
 
