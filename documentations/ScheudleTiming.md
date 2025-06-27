@@ -11,7 +11,23 @@
 
 * July 21st is when the spring schedule is due
 
-* Oct 1st is when spring schedule become live to student
+* Oct 13th is when spring schedule become live to student
+
+#### Timeline MP has listed:
+
+* July 21—Deadline to return the schedule to Melinda Poulter (Approved updates begin August 4)
+
+* Sept. 8—Schedule submitted to registrar’s office for their input
+
+* Sept. 29—Schedule returned to SMD for inspection, questions and minimal changes
+
+* Oct. 6—Final to registrar’s office to ensure an accurate schedule goes live
+
+* Oct. 13—Schedule goes live and made available to students, advisors and administrators
+
+* Oct. 20-Nov. 7—Advising period
+
+* Nov. 14-Nov. 21—Spring 26 registration begins
 
 ## Fall Schedule:
 
