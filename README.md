@@ -6,8 +6,6 @@
 
 * [Servers](documentations/Servers.md)
 
-
-
 ## Recruiments
 * [Check Current Student Census](documentations/CheckStudentCensus.md)
 
@@ -33,6 +31,8 @@
 * [Check the Instructors and Student Count for a Course](documentations/InstructorsOnArgo.md) (Useful for forward predicting student enrollment)
 
 * [Faculty Registration Access](documentations/FacultyRegistrationAccess.md)
+
+* [Student Requesting to Unenroll and Return later Due to Financial Issues](documentations/UnEnrollDueToFinacialIssues.md)
 
 ## Scheduling
 
