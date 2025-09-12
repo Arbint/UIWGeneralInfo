@@ -14,7 +14,7 @@ First, always Recommend the student to talk to the Financial Aid office if they 
 * If they take a full year off they will need to reapply to the university.
 
 ## Withdraw Steps:
-If they you need to withdraw this semester, ask the student to contact our Student Success Office to formally withdraw. they can reach them at academicsupport@uiwtx.edu or (210) 805-5813.
+If they you need to withdraw this semester, ask the student to contact our Student Success Office to formally withdraw. they can reach them at academicsupport@uiwtx.edu or (210) 805-5813. (Always needed)
 Include in their email:
 
 * Subject Line Format: Withdrawal [Year Term] (e.g., 2025 Fall, Spring, or Summer): Full Name, Student ID Number
@@ -23,3 +23,7 @@ Include in their email:
 * UIW or Personal email address 
 
 If they’re planning to transfer to another school they can request their transcript from the Registrar's Office through their website: https://my.uiw.edu/registrar/transcript-request.html 
+
+
+## Credits:
+They will always have their completed credits, no matter how much time they take off.

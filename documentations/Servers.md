@@ -10,3 +10,9 @@ We have 3 Servers running:
 [Ayon](http://10.40.14.25:5000/dashboard/tasks)
 
 All 3 are running on Local IP: **10.40.14.25**
+
+We also have some servers that are currently not running:
+
+[Book Stack](BookStack.md)
+
+[Taiga](http://10.40.14.25:9000)
