@@ -8,7 +8,7 @@ We should issue an aleart if a student is not doing well in class.
   
 <img src="../assets/FindEABNavigate.png" width=600>
 
-- Click on the Home Button on the upper left corner, and change the Staff Home to Faculty Home.
+- Click on the Home Button on the upper left corner, and change the Staff Home to Professor Home.
 
 <img src="../assets/ChangeEABToProfessorHome.png" width=600>
 

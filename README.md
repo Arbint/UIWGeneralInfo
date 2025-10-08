@@ -10,7 +10,6 @@
 
 * [Issue An Alert](documentations/IssueAnAlert.md)
 
-
 ## Recruiments
 * [Check Current Student Census](documentations/CheckStudentCensus.md)
 
